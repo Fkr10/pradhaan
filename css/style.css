@@ -1146,3 +1146,16 @@ text-align: center; }
 #teachers-section{
   background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
 }
+
+.col-lg-6 {
+  font-weight: bold;
+  display: flex;
+  flex-direction: column;
+  padding: 3px 200px;
+ justify-content: center;
+  align-items: center;
+ }
+
+.col-lg-7 img{
+border-radius: 2%;
+}
