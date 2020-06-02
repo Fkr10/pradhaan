@@ -3,7 +3,10 @@ body {
   line-height: 1.7;
   color: gray;
   font-weight: 300;
-  font-size: 1.1rem; }
+  font-size: 1.1rem; 
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
+   
+}
 
 ::-moz-selection {
   background: #000;
@@ -452,7 +455,8 @@ h1, h2, h3, h4, h5,
     width: 100%;
     float: left;
     padding-left: 20px;
-    padding-right: 20px; }
+    padding-right: 20px; 
+  }
     .site-mobile-menu .site-mobile-menu-header .site-mobile-menu-close {
       float: right;
       margin-top: 8px; }
@@ -721,7 +725,8 @@ opacity: .5rem; }
   font-size: 3rem;
   color: #000;
   margin-bottom: 1.8rem;
-  font-weight: 900; }
+  font-weight: 900;
+ }
   @media (max-width: 991.98px) {
     .section-title {
       font-size: 1.5rem; } }
@@ -1143,10 +1148,6 @@ text-align: center; }
   width: 100%;
  
 }
-#teachers-section{
-  background-image: linear-gradient(315deg, #f8f9d2 0%, #e8dbfc 74%);
-}
-
 .col-lg-6 {
   font-weight: bold;
   display: flex;
@@ -1158,4 +1159,7 @@ text-align: center; }
 
 .col-lg-7 img{
 border-radius: 2%;
+}
+.bc{
+  background-image: linear-gradient(to top, #d5d5d5 0%, white 100%);
 }
