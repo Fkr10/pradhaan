@@ -1161,5 +1161,5 @@ text-align: center; }
 border-radius: 2%;
 }
 .bc{
-  background-image: linear-gradient(to top, #d5d5d5 0%, white 100%);
+  background-image: linear-gradient(to top, #f3e7e9 0%, #e3eeff 99%, #e3eeff 100%);
 }
